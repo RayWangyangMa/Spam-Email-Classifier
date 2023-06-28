@@ -30,4 +30,7 @@ To use Spam Email Classifier, follow these steps:
 
 ```bash
 python ML.py
+```
 
+## Contact
+If you want to contact me you can reach me at mawangyang@live.com.
